@@ -1,0 +1,23 @@
+body{
+    background-color: #A9E4EF;
+    text-align: center;
+    margin-top: 10%;   
+}
+
+h1{
+    background-color: #81F495;
+    margin-left: 30%;
+    margin-right: 30%;
+   border:solid #96F550;
+   border-style: groove;
+}
+
+button{
+    background-color: aqua;
+    width: 70px;
+    border-radius: 8px;
+}
+
+button:hover{
+    background-color: #81F495;
+}
